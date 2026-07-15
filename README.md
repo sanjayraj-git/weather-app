@@ -94,7 +94,7 @@ I chose to store the API key using environment variables (`.env`) instead of har
 
 ## 🌐 Live Demo
 
-(Add your Vercel deployment link here)
+https://weather-app-woad-rho-50.vercel.app/
 
 ---
 
